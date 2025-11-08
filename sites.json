@@ -3,5 +3,10 @@ window.WEBRING_SITES = [
         "url": "https://docsgoblin.com",
         "name": "docs goblin",
         "description": "CT Smith's blog"
+    },
+    {
+        "url": "https://lizargall.github.io/",
+        "name": "Liz Argall",
+        "description": "Liz Argall's portfolio site and blog"
     }
 ];
